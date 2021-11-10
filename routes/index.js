@@ -4,7 +4,7 @@ var router = express.Router();
 var Musics = [
   {
     artist: "Muse",
-    favorite_musics: ["Uprising", "starlight"]
+    favorite_musics: ["Uprising", "Starlight"]
   }, {
     artist: "ACDC",
     favorite_musics: ["Thunderstruck", "Highway to Hell"]
@@ -12,7 +12,7 @@ var Musics = [
     artist: "Led Zeppelin",
     favorite_musics: ["Rock and Roll", "Stairway to Heaven"]
   }, {
-    artist: "Doors",
+    artist: "The Doors",
     favorite_musics: ["LA Woman", "Riders on the Storm "]
   }, {
     artist: "Charles Aznavour",
